@@ -9,6 +9,30 @@ p.author {
   font-weight: bold;
 }
 
-p.important {
+p.flashy {
     color: red;
+    font-style: italic;
+}
+
+ul.flashy {
+    color: red;
+    font-style: italic;
+}
+
+h1.flashy {
+    color: red;
+    font-style: italic;
+}
+
+p.important {
+  color: purple;
+  font-family: fantasy;
+  font-size: 18px;
+}
+
+li.best {
+  color: blue;
+  font-size: 36px;
+  font-family: fantasy;
+  text-decoration: underline;
 }
